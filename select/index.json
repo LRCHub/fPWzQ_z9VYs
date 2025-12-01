@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Easy",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T03:10:28.225057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/01_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/02_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/03_Easy_On_Me_Adele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take It Easy - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Take_It_Easy_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Ride Easy (with June Carter Cash)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_Baby_Ride_Easy_(with_June_Carter_Cash)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Ride Easy",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_Baby_Ride_Easy_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Make It Easy for Me",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/07_Don't_Make_It_Easy_for_Me_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EASY TONIGHT",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/08_EASY_TONIGHT_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "EASY TONIGHT",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/09_EASY_TONIGHT_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Easy Come, Easy Go",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Easy_Come,_Easy_Go_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Easy Come, Easy Go",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Easy_Come,_Easy_Go_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Easy Come, Easy Go (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Easy_Come,_Easy_Go_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Easy Come, Easy Go (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Easy_Come,_Easy_Go_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Easy to Love You",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/14_Easy_to_Love_You_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Easy as Hello",
+      "artist": "Sunny Sweeney",
+      "has_synced": true,
+      "path": "select/15_Easy_as_Hello_Sunny_Sweeney.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Easy as Hello",
+      "artist": "Sunny Sweeney",
+      "has_synced": true,
+      "path": "select/16_Easy_as_Hello_Sunny_Sweeney.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Free And Easy (Down The Road I Go)",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/17_Free_And_Easy_(Down_The_Road_I_Go)_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Free And Easy (Down The Road I Go) (Single Edit)",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/18_Free_And_Easy_(Down_The_Road_I_Go)_(Single_Edit)_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "If It Don't Come Easy",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/19_If_It_Don't_Come_Easy_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "If It Don't Come Easy",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/20_If_It_Don't_Come_Easy_Tanya_Tucker.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Easy",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_Easy_Imagine_Dragons.txt"
+    }
+  ]
+}
